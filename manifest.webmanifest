@@ -1,0 +1,1 @@
+{"name":"Loyalty Offer Web App","short_name":"LoyaltyApp","description":"Track and manage loyalty offer customers","start_url":"/","display":"standalone","background_color":"#fff","theme_color":"#d90429","lang":"en","scope":"/vp-masters/","icons":[{"src":"/vite.svg","sizes":"192x192","type":"image/svg+xml"},{"src":"/vite.svg","sizes":"512x512","type":"image/svg+xml"}]}
