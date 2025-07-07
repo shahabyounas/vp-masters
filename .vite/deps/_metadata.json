@@ -1,0 +1,46 @@
+{
+  "hash": "4abcec07",
+  "configHash": "b30a9f54",
+  "lockfileHash": "d5d71151",
+  "browserHash": "71ce945f",
+  "optimized": {
+    "@yudiel/react-qr-scanner": {
+      "src": "../../node_modules/@yudiel/react-qr-scanner/dist/index.esm.mjs",
+      "file": "@yudiel_react-qr-scanner.js",
+      "fileHash": "f911e3eb",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "78ee2efe",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "33b47161",
+      "needsInterop": true
+    },
+    "react-qr-code": {
+      "src": "../../node_modules/react-qr-code/lib/index.js",
+      "file": "react-qr-code.js",
+      "fileHash": "f801dd9f",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "84832ff0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-JPFIJ2ZJ": {
+      "file": "chunk-JPFIJ2ZJ.js"
+    },
+    "chunk-3A6WRQ5K": {
+      "file": "chunk-3A6WRQ5K.js"
+    }
+  }
+}

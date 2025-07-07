@@ -1,0 +1,55 @@
+.dashboard-container {
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 7vh;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.12);
+  padding: 2rem 1.5rem 1.5rem 1.5rem;
+}
+
+.dashboard-title {
+  color: #d90429;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.dashboard-list {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+.dashboard-table th, .dashboard-table td {
+  border: 1px solid #222;
+  padding: 0.75rem 0.5rem;
+  text-align: left;
+}
+
+.dashboard-table th {
+  background: #d90429;
+  color: #fff;
+  font-weight: bold;
+}
+
+.dashboard-table tr:nth-child(even) {
+  background: #f8f8f8;
+}
+
+.dashboard-table tr:hover {
+  background: #ffe5e9;
+}
+
+.dashboard-empty {
+  color: #222;
+  text-align: center;
+  padding: 2rem 0;
+} 
